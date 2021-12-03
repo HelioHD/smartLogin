@@ -1,9 +1,9 @@
 ﻿{
     "database": {
-        "database":"heroku_53472f384441f4d",
-        "usuario":"b03960ebd9d535",
-        "host": "us-cdbr-east-04.cleardb.com",
-        "password": "343939a12dba1a5",
+        "database":"sua-database",
+        "usuario":"seu-user",
+        "host": "sua-host",
+        "password": "sua-senha",
         "porta": "3306"
     },
     "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
