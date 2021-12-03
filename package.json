@@ -2,7 +2,6 @@
     "name": "api-login-smart-ex",
     "version": "1.0.0",
     "description": "Node.js + MySQL API para login ProjetoSmartEX",
-    "license": "MIT",
     "scripts": {
         "start": "nodemon index.js",
         "dev": "nodemon index.js"
